@@ -1,0 +1,7 @@
+# ide files
+.vscode/
+.idea/
+.pyignore
+
+# debug
+**/__pycache__
